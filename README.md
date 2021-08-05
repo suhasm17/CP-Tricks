@@ -1,1 +1,1 @@
-# Usefull-Competitive-Programming
+# CP Tricks
